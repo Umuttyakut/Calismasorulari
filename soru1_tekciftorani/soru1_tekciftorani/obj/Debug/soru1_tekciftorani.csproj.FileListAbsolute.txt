@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\ödev\deneme\soru1_tekciftorani\soru1_tekciftorani\bin\Debug\soru1_tekciftorani.exe.config
+C:\Users\Guser\Desktop\ödev\deneme\soru1_tekciftorani\soru1_tekciftorani\bin\Debug\soru1_tekciftorani.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru1_tekciftorani\soru1_tekciftorani\bin\Debug\soru1_tekciftorani.pdb
+C:\Users\Guser\Desktop\ödev\deneme\soru1_tekciftorani\soru1_tekciftorani\obj\Debug\soru1_tekciftorani.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru1_tekciftorani\soru1_tekciftorani\obj\Debug\soru1_tekciftorani.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru1_tekciftorani\soru1_tekciftorani\obj\Debug\soru1_tekciftorani.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru1_tekciftorani\soru1_tekciftorani\obj\Debug\soru1_tekciftorani.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru1_tekciftorani\soru1_tekciftorani\obj\Debug\soru1_tekciftorani.pdb

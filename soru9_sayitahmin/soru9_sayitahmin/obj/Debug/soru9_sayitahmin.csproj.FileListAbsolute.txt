@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\Calismasorular\soru9_sayitahmin\soru9_sayitahmin\bin\Debug\soru9_sayitahmin.exe.config
+C:\Users\Guser\Desktop\Calismasorular\soru9_sayitahmin\soru9_sayitahmin\bin\Debug\soru9_sayitahmin.exe
+C:\Users\Guser\Desktop\Calismasorular\soru9_sayitahmin\soru9_sayitahmin\bin\Debug\soru9_sayitahmin.pdb
+C:\Users\Guser\Desktop\Calismasorular\soru9_sayitahmin\soru9_sayitahmin\obj\Debug\soru9_sayitahmin.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\Calismasorular\soru9_sayitahmin\soru9_sayitahmin\obj\Debug\soru9_sayitahmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\Calismasorular\soru9_sayitahmin\soru9_sayitahmin\obj\Debug\soru9_sayitahmin.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\Calismasorular\soru9_sayitahmin\soru9_sayitahmin\obj\Debug\soru9_sayitahmin.exe
+C:\Users\Guser\Desktop\Calismasorular\soru9_sayitahmin\soru9_sayitahmin\obj\Debug\soru9_sayitahmin.pdb

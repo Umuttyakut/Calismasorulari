@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\ödev\deneme\soru3_kelimetersyaz\soru3_kelimetersyaz\bin\Debug\soru3_kelimetersyaz.exe.config
+C:\Users\Guser\Desktop\ödev\deneme\soru3_kelimetersyaz\soru3_kelimetersyaz\bin\Debug\soru3_kelimetersyaz.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru3_kelimetersyaz\soru3_kelimetersyaz\bin\Debug\soru3_kelimetersyaz.pdb
+C:\Users\Guser\Desktop\ödev\deneme\soru3_kelimetersyaz\soru3_kelimetersyaz\obj\Debug\soru3_kelimetersyaz.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru3_kelimetersyaz\soru3_kelimetersyaz\obj\Debug\soru3_kelimetersyaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru3_kelimetersyaz\soru3_kelimetersyaz\obj\Debug\soru3_kelimetersyaz.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru3_kelimetersyaz\soru3_kelimetersyaz\obj\Debug\soru3_kelimetersyaz.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru3_kelimetersyaz\soru3_kelimetersyaz\obj\Debug\soru3_kelimetersyaz.pdb

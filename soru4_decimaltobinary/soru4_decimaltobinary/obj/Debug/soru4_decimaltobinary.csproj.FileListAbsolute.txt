@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\ödev\deneme\soru4_decimaltobinary\soru4_decimaltobinary\bin\Debug\soru4_decimaltobinary.exe.config
+C:\Users\Guser\Desktop\ödev\deneme\soru4_decimaltobinary\soru4_decimaltobinary\bin\Debug\soru4_decimaltobinary.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru4_decimaltobinary\soru4_decimaltobinary\bin\Debug\soru4_decimaltobinary.pdb
+C:\Users\Guser\Desktop\ödev\deneme\soru4_decimaltobinary\soru4_decimaltobinary\obj\Debug\soru4_decimaltobinary.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru4_decimaltobinary\soru4_decimaltobinary\obj\Debug\soru4_decimaltobinary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru4_decimaltobinary\soru4_decimaltobinary\obj\Debug\soru4_decimaltobinary.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru4_decimaltobinary\soru4_decimaltobinary\obj\Debug\soru4_decimaltobinary.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru4_decimaltobinary\soru4_decimaltobinary\obj\Debug\soru4_decimaltobinary.pdb

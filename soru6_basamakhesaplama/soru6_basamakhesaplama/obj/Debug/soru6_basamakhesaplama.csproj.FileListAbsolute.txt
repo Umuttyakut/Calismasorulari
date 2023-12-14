@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\ödev\deneme\soru6_basamakhesaplama\soru6_basamakhesaplama\bin\Debug\soru6_basamakhesaplama.exe.config
+C:\Users\Guser\Desktop\ödev\deneme\soru6_basamakhesaplama\soru6_basamakhesaplama\bin\Debug\soru6_basamakhesaplama.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru6_basamakhesaplama\soru6_basamakhesaplama\bin\Debug\soru6_basamakhesaplama.pdb
+C:\Users\Guser\Desktop\ödev\deneme\soru6_basamakhesaplama\soru6_basamakhesaplama\obj\Debug\soru6_basamakhesaplama.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru6_basamakhesaplama\soru6_basamakhesaplama\obj\Debug\soru6_basamakhesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru6_basamakhesaplama\soru6_basamakhesaplama\obj\Debug\soru6_basamakhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru6_basamakhesaplama\soru6_basamakhesaplama\obj\Debug\soru6_basamakhesaplama.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru6_basamakhesaplama\soru6_basamakhesaplama\obj\Debug\soru6_basamakhesaplama.pdb

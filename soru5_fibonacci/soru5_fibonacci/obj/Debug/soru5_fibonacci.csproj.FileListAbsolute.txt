@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\ödev\deneme\soru5_fibonacci\soru5_fibonacci\bin\Debug\soru5_fibonacci.exe.config
+C:\Users\Guser\Desktop\ödev\deneme\soru5_fibonacci\soru5_fibonacci\bin\Debug\soru5_fibonacci.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru5_fibonacci\soru5_fibonacci\bin\Debug\soru5_fibonacci.pdb
+C:\Users\Guser\Desktop\ödev\deneme\soru5_fibonacci\soru5_fibonacci\obj\Debug\soru5_fibonacci.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru5_fibonacci\soru5_fibonacci\obj\Debug\soru5_fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru5_fibonacci\soru5_fibonacci\obj\Debug\soru5_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru5_fibonacci\soru5_fibonacci\obj\Debug\soru5_fibonacci.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru5_fibonacci\soru5_fibonacci\obj\Debug\soru5_fibonacci.pdb

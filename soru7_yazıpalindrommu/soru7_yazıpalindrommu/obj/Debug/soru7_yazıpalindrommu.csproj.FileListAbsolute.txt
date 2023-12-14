@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\ödev\deneme\soru7_yazıpalindrommu\soru7_yazıpalindrommu\bin\Debug\soru7_yazıpalindrommu.exe.config
+C:\Users\Guser\Desktop\ödev\deneme\soru7_yazıpalindrommu\soru7_yazıpalindrommu\bin\Debug\soru7_yazıpalindrommu.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru7_yazıpalindrommu\soru7_yazıpalindrommu\bin\Debug\soru7_yazıpalindrommu.pdb
+C:\Users\Guser\Desktop\ödev\deneme\soru7_yazıpalindrommu\soru7_yazıpalindrommu\obj\Debug\soru7_yazıpalindrommu.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru7_yazıpalindrommu\soru7_yazıpalindrommu\obj\Debug\soru7_yazıpalindrommu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru7_yazıpalindrommu\soru7_yazıpalindrommu\obj\Debug\soru7_yazıpalindrommu.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru7_yazıpalindrommu\soru7_yazıpalindrommu\obj\Debug\soru7_yazıpalindrommu.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru7_yazıpalindrommu\soru7_yazıpalindrommu\obj\Debug\soru7_yazıpalindrommu.pdb

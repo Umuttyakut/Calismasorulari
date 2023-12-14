@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\ödev\deneme\mukemmelsayilar\mukemmelsayilar\bin\Debug\mukemmelsayilar.exe.config
+C:\Users\Guser\Desktop\ödev\deneme\mukemmelsayilar\mukemmelsayilar\bin\Debug\mukemmelsayilar.exe
+C:\Users\Guser\Desktop\ödev\deneme\mukemmelsayilar\mukemmelsayilar\bin\Debug\mukemmelsayilar.pdb
+C:\Users\Guser\Desktop\ödev\deneme\mukemmelsayilar\mukemmelsayilar\obj\Debug\mukemmelsayilar.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\ödev\deneme\mukemmelsayilar\mukemmelsayilar\obj\Debug\mukemmelsayilar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\ödev\deneme\mukemmelsayilar\mukemmelsayilar\obj\Debug\mukemmelsayilar.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\ödev\deneme\mukemmelsayilar\mukemmelsayilar\obj\Debug\mukemmelsayilar.exe
+C:\Users\Guser\Desktop\ödev\deneme\mukemmelsayilar\mukemmelsayilar\obj\Debug\mukemmelsayilar.pdb

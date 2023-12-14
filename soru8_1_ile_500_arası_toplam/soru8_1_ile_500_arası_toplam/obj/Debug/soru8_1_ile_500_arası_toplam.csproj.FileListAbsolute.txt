@@ -1,0 +1,8 @@
+C:\Users\Guser\Desktop\ödev\deneme\soru8_1_ile_500_arası_toplam\soru8_1_ile_500_arası_toplam\bin\Debug\soru8_1_ile_500_arası_toplam.exe.config
+C:\Users\Guser\Desktop\ödev\deneme\soru8_1_ile_500_arası_toplam\soru8_1_ile_500_arası_toplam\bin\Debug\soru8_1_ile_500_arası_toplam.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru8_1_ile_500_arası_toplam\soru8_1_ile_500_arası_toplam\bin\Debug\soru8_1_ile_500_arası_toplam.pdb
+C:\Users\Guser\Desktop\ödev\deneme\soru8_1_ile_500_arası_toplam\soru8_1_ile_500_arası_toplam\obj\Debug\soru8_1_ile_500_arası_toplam.csproj.AssemblyReference.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru8_1_ile_500_arası_toplam\soru8_1_ile_500_arası_toplam\obj\Debug\soru8_1_ile_500_arası_toplam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru8_1_ile_500_arası_toplam\soru8_1_ile_500_arası_toplam\obj\Debug\soru8_1_ile_500_arası_toplam.csproj.CoreCompileInputs.cache
+C:\Users\Guser\Desktop\ödev\deneme\soru8_1_ile_500_arası_toplam\soru8_1_ile_500_arası_toplam\obj\Debug\soru8_1_ile_500_arası_toplam.exe
+C:\Users\Guser\Desktop\ödev\deneme\soru8_1_ile_500_arası_toplam\soru8_1_ile_500_arası_toplam\obj\Debug\soru8_1_ile_500_arası_toplam.pdb
